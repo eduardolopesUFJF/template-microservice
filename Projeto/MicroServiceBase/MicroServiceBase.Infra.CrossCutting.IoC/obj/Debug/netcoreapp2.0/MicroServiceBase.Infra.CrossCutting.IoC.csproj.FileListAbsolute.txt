@@ -1,0 +1,15 @@
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\MicroServiceBase.Infra.CrossCutting.IoC.deps.json
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\MicroServiceBase.Infra.CrossCutting.IoC.dll
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\MicroServiceBase.Infra.CrossCutting.IoC.pdb
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\MicroServiceBase.Domain.Core.dll
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\MicroServiceBase.Domain.dll
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\MicroServiceBase.Infra.Data.SqlServer.dll
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\MicroServiceBase.Domain.Core.pdb
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\MicroServiceBase.Domain.pdb
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.0\MicroServiceBase.Infra.Data.SqlServer.pdb
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\MicroServiceBase.Infra.CrossCutting.IoC.csprojResolveAssemblyReference.cache
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\MicroServiceBase.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\MicroServiceBase.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\MicroServiceBase.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\MicroServiceBase.Infra.CrossCutting.IoC.dll
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.0\MicroServiceBase.Infra.CrossCutting.IoC.pdb

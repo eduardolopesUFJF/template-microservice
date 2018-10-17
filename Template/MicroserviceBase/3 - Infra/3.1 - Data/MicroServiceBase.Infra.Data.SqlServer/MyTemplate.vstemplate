@@ -1,0 +1,40 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>ServiceTemplate.Infra.Data.SqlServer</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>$projectname$.Infra.Data.SqlServer</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+	<CreateInPlace>true</CreateInPlace>
+	<WizardExtension>
+		<Assembly>RestTemplateWizard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c9a76f51a8a9555f, processorArchitecture=MSIL</Assembly>
+		<FullClassName>RestTemplateWizard.ChildWizard</FullClassName>
+    </WizardExtension>	
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="ServiceTemplate.Infra.Data.SqlServer.csproj" File="MicroServiceBase.Infra.Data.SqlServer.csproj" ReplaceParameters="true">
+      <Folder Name="Context" TargetFolderName="Context">
+        <ProjectItem ReplaceParameters="true" TargetFileName="ServiceContext.cs">ServiceContext.cs</ProjectItem>
+      </Folder>
+      <Folder Name="Mappings" TargetFolderName="Mappings">
+        <ProjectItem ReplaceParameters="true" TargetFileName="UsuarioMap.cs">UsuarioMap.cs</ProjectItem>
+      </Folder>
+      <Folder Name="Migrations" TargetFolderName="Migrations" />
+      <Folder Name="Repository" TargetFolderName="Repository">
+        <ProjectItem ReplaceParameters="true" TargetFileName="BaseRepository.cs">BaseRepository.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="UsuarioRepository.cs">UsuarioRepository.cs</ProjectItem>
+      </Folder>
+    </Project>
+  </TemplateContent>
+  <WizardExtension>
+	<Assembly>RestTemplateWizard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c9a76f51a8a9555f, processorArchitecture=MSIL</Assembly>
+	<FullClassName>RestTemplateWizard.ChildWizard</FullClassName>
+  </WizardExtension>
+</VSTemplate>

@@ -1,0 +1,47 @@
+﻿<VSTemplate Version="2.0.0" Type="ProjectGroup"
+    xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+  <TemplateData>
+    <Name>MicroServiceBase</Name>
+    <Description>Exemplo de microservico</Description>
+    <Icon>__TemplateIcon.ico</Icon>
+    <ProjectType>CSharp</ProjectType>
+	<CreateInPlace>true</CreateInPlace>
+	<WizardExtension>
+		<Assembly>RestTemplateWizard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c9a76f51a8a9555f, processorArchitecture=MSIL</Assembly>
+		<FullClassName>RestTemplateWizard.RootWizard</FullClassName>
+    </WizardExtension>	
+  </TemplateData>
+  <TemplateContent>
+    <ProjectCollection>
+      <SolutionFolder Name="1-Service">
+        <ProjectTemplateLink ProjectName="$projectname$.Api">
+          1 - Service\MicroServiceBase.Api/MyTemplate.vstemplate
+        </ProjectTemplateLink>
+      </SolutionFolder>
+      <SolutionFolder Name="2-Domain">
+        <ProjectTemplateLink ProjectName="$projectname$.Domain">
+          2 - Domain\MicroServiceBase.Domain/MyTemplate.vstemplate
+        </ProjectTemplateLink>
+        <ProjectTemplateLink ProjectName="$projectname$.Domain.Core">
+          2 - Domain\MicroServiceBase.Domain.Core/MyTemplate.vstemplate
+        </ProjectTemplateLink>
+		</SolutionFolder>
+        <SolutionFolder Name="3-Infra">
+          <SolutionFolder Name="3.1-Data">
+            <ProjectTemplateLink ProjectName="$projectname$.Infra.Data.SqlServer">
+              3 - Infra\3.1 - Data\MicroServiceBase.Infra.Data.SqlServer/MyTemplate.vstemplate
+            </ProjectTemplateLink>
+          </SolutionFolder>
+          <SolutionFolder Name="3.2-CrossCutting">
+            <ProjectTemplateLink ProjectName="$projectname$.Infra.CrossCutting.IoC">
+              3 - Infra\3.2 - CrossCutting\MicroServiceBase.Infra.CrossCutting.IoC/MyTemplate.vstemplate
+            </ProjectTemplateLink>
+          </SolutionFolder>
+      </SolutionFolder>
+    </ProjectCollection>
+  </TemplateContent>
+  <WizardExtension>
+	<Assembly>RestTemplateWizard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c9a76f51a8a9555f, processorArchitecture=MSIL</Assembly>
+	<FullClassName>RestTemplateWizard.RootWizard</FullClassName>
+   </WizardExtension>
+</VSTemplate>

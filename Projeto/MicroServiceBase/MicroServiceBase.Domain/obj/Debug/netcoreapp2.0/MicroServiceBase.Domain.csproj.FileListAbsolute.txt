@@ -1,0 +1,11 @@
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Domain\bin\Debug\netcoreapp2.0\MicroServiceBase.Domain.deps.json
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Domain\bin\Debug\netcoreapp2.0\MicroServiceBase.Domain.dll
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Domain\bin\Debug\netcoreapp2.0\MicroServiceBase.Domain.pdb
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Domain\bin\Debug\netcoreapp2.0\MicroServiceBase.Domain.Core.dll
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Domain\bin\Debug\netcoreapp2.0\MicroServiceBase.Domain.Core.pdb
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Domain\obj\Debug\netcoreapp2.0\MicroServiceBase.Domain.csprojResolveAssemblyReference.cache
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Domain\obj\Debug\netcoreapp2.0\MicroServiceBase.Domain.csproj.CoreCompileInputs.cache
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Domain\obj\Debug\netcoreapp2.0\MicroServiceBase.Domain.AssemblyInfoInputs.cache
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Domain\obj\Debug\netcoreapp2.0\MicroServiceBase.Domain.AssemblyInfo.cs
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Domain\obj\Debug\netcoreapp2.0\MicroServiceBase.Domain.dll
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Domain\obj\Debug\netcoreapp2.0\MicroServiceBase.Domain.pdb

@@ -1,0 +1,15 @@
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.Data.SqlServer\bin\Debug\netcoreapp2.0\MicroServiceBase.Infra.Data.SqlServer.deps.json
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.Data.SqlServer\bin\Debug\netcoreapp2.0\MicroServiceBase.Infra.Data.SqlServer.runtimeconfig.json
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.Data.SqlServer\bin\Debug\netcoreapp2.0\MicroServiceBase.Infra.Data.SqlServer.runtimeconfig.dev.json
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.Data.SqlServer\bin\Debug\netcoreapp2.0\MicroServiceBase.Infra.Data.SqlServer.dll
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.Data.SqlServer\bin\Debug\netcoreapp2.0\MicroServiceBase.Infra.Data.SqlServer.pdb
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.Data.SqlServer\bin\Debug\netcoreapp2.0\MicroServiceBase.Domain.Core.dll
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.Data.SqlServer\bin\Debug\netcoreapp2.0\MicroServiceBase.Domain.dll
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.Data.SqlServer\bin\Debug\netcoreapp2.0\MicroServiceBase.Domain.pdb
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.Data.SqlServer\bin\Debug\netcoreapp2.0\MicroServiceBase.Domain.Core.pdb
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.Data.SqlServer\obj\Debug\netcoreapp2.0\MicroServiceBase.Infra.Data.SqlServer.csprojResolveAssemblyReference.cache
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.Data.SqlServer\obj\Debug\netcoreapp2.0\MicroServiceBase.Infra.Data.SqlServer.csproj.CoreCompileInputs.cache
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.Data.SqlServer\obj\Debug\netcoreapp2.0\MicroServiceBase.Infra.Data.SqlServer.AssemblyInfoInputs.cache
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.Data.SqlServer\obj\Debug\netcoreapp2.0\MicroServiceBase.Infra.Data.SqlServer.AssemblyInfo.cs
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.Data.SqlServer\obj\Debug\netcoreapp2.0\MicroServiceBase.Infra.Data.SqlServer.dll
+C:\Arquivos\Stefanini\Microservice Template\MicroServiceBase\MicroServiceBase\MicroServiceBase.Infra.Data.SqlServer\obj\Debug\netcoreapp2.0\MicroServiceBase.Infra.Data.SqlServer.pdb

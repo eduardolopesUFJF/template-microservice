@@ -1,0 +1,48 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>ServiceTemplate.Domain</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>$projectname$.Domain</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+	<CreateInPlace>true</CreateInPlace>
+	<WizardExtension>
+		<Assembly>RestTemplateWizard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c9a76f51a8a9555f, processorArchitecture=MSIL</Assembly>
+		<FullClassName>RestTemplateWizard.ChildWizard</FullClassName>
+    </WizardExtension>	
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="ServiceTemplate.Domain.csproj" File="MicroServiceBase.Domain.csproj" ReplaceParameters="true">
+      <Folder Name="UsuarioRoot" TargetFolderName="UsuarioRoot">
+        <Folder Name="Entity" TargetFolderName="Entity">
+          <ProjectItem ReplaceParameters="true" TargetFileName="Usuario.cs">Usuario.cs</ProjectItem>
+        </Folder>
+        <Folder Name="Repository" TargetFolderName="Repository">
+          <ProjectItem ReplaceParameters="true" TargetFileName="IBaseRepository.cs">IBaseRepository.cs</ProjectItem>
+          <ProjectItem ReplaceParameters="true" TargetFileName="IUsuarioRepository.cs">IUsuarioRepository.cs</ProjectItem>
+        </Folder>
+        <Folder Name="Service" TargetFolderName="Service">
+          <Folder Name="Interfaces" TargetFolderName="Interfaces">
+            <ProjectItem ReplaceParameters="true" TargetFileName="IUsuarioService.cs">IUsuarioService.cs</ProjectItem>
+          </Folder>
+          <ProjectItem ReplaceParameters="true" TargetFileName="UsuarioService.cs">UsuarioService.cs</ProjectItem>
+        </Folder>
+        <Folder Name="Validators" TargetFolderName="Validators">
+          <ProjectItem ReplaceParameters="true" TargetFileName="UsuarioValidator.cs">UsuarioValidator.cs</ProjectItem>
+        </Folder>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="EntityBase.cs">EntityBase.cs</ProjectItem>
+    </Project>
+  </TemplateContent>
+  <WizardExtension>
+	<Assembly>RestTemplateWizard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c9a76f51a8a9555f, processorArchitecture=MSIL</Assembly>
+	<FullClassName>RestTemplateWizard.ChildWizard</FullClassName>
+  </WizardExtension>
+</VSTemplate>
